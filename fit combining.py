@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 17 18:15:25 2022
-
-@author: MANIDIPA BANERJEE
-"""
-
 from astropy.io import fits
 import matplotlib.pyplot as plt 
 import numpy as np
